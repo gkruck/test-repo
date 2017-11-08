@@ -1,0 +1,34 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{156, 183}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label1",
+          "frame" : "{{156, 183}, {150, 32}}",
+          "uuid" : "8FFDF645-5EB3-4023-A136-D382A21FFFFD",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Hello, World!",
+          "font_size" : 18,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {462, 398}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
